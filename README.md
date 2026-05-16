@@ -25,7 +25,7 @@ Profile Card App is a beginner SwiftUI project built in Module 01 of the iOS App
 
 ## Screenshot
 
-Add your Simulator screenshot here.
+![Profile Card App Screenshot](Screenshots/profile-card.png)
 
 ## Course Submission Checklist
 
